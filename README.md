@@ -1,0 +1,8 @@
+# Projects on Poisson Processes
+
+Here is a repository on projects about Poisson Processes. 
+There are 3 projects : 
+
+- One about detection of change of intensity in a count process
+- A second about Hawkes Processes for cyber attack modelling
+- Another about outage probability in the OFDMA protocol
