@@ -8,3 +8,4 @@ There are 3 projects :
 - Another about outage probability in the OFDMA protocol
 
 The projects where done with Maxime Megel and Vincent Herfeld.
+The course was teached by Laurent Decreusefond.
